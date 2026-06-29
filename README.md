@@ -174,13 +174,7 @@ Through this project, I gained hands-on experience in:
 
 ## 📸 Dashboard Preview
 
-> Add a screenshot of your Excel dashboard here.
-
-```
-Dashboard.png
-```
-
----
+![Amazon Sales Dashboard](Dashboard.png)
 
 ## 📬 Connect With Me
 
