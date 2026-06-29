@@ -179,6 +179,8 @@ Through this project, I gained hands-on experience in:
 ## 📬 Connect With Me
 
 If you found this project interesting, feel free to connect with me on LinkedIn or explore my other data analytics projects.
+🔗 GitHub: https://github.com/Akanksha265
 
+LinkedIn:https://www.linkedin.com/in/akanksha-kumari-1a0222289
 
 ⭐ If you like this project, consider giving it a star!
